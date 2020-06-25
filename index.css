@@ -11,7 +11,7 @@ header {
 }
 
 main {
-  flex-direction: column
+  flex-direction: column;
   flex-wrap: wrap;
   display: flex;
   background-color: #FBFFF4;
